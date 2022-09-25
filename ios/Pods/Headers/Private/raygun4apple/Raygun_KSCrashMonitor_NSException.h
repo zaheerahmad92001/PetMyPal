@@ -1,0 +1,1 @@
+../../../raygun4apple/Sources/Raygun_KSCrash/Recording/Monitors/Raygun_KSCrashMonitor_NSException.h

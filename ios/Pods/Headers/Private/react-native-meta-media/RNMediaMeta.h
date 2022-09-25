@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-media-meta/ios/RNMediaMeta/RNMediaMeta.h

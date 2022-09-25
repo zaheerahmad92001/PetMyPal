@@ -1,0 +1,1 @@
+../../../raygun4apple/Sources/Raygun_KSCrash/Installations/Raygun_KSCrashInstallation+Private.h

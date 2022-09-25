@@ -1,0 +1,222 @@
+{
+  "login": {
+    "method": "POST",
+    "route": "/api/auth"
+  },
+  "social-login": {
+    "method": "POST",
+    "route": "/api/social-login"
+  },
+  "create-account": {
+    "method": "POST",
+    "route": "/api/create-account"
+  },
+  "update-user-data": {
+    "method": "POST",
+    "route": "/api/update-user-data"
+  },
+  "update-pet-data": {
+    "method": "POST",
+    "route": "/api/update-pet-data"
+  },
+  "delete_page": {
+    "method": "POST",
+    "route": "/api/delete_page"
+  },
+  "update-account": {
+    "method": "POST",
+    "route": "/api/update-account"
+  },
+  "create-page": {
+    "method": "POST",
+    "route": "/api/create-page"
+  },
+  "update-page-data": {
+    "method": "POST",
+    "route": "/api/update-page-data"
+  },
+  "create-group": {
+    "method": "POST",
+    "route": "/api/create-group"
+  },
+  "update-group-data": {
+    "method": "POST",
+    "route": "/api/update-group-data"
+  },
+  "delete_group": {
+    "method": "POST",
+    "route": "/api/delete_group"
+  },
+  "two-factor": {
+    "method": "POST",
+    "route": "/api/two-factor"
+  },
+  "verification-code-sms": {
+    "method": "POST",
+    "route": "/api/verification-code-sms"
+  },
+  "reset-password": {
+    "method": "POST",
+    "route": "/api/reset-password"
+  },
+  "send-code-sms": {
+    "method": "POST",
+    "route": "/api/send-code-sms"
+  },
+  "get-countries": {
+    "method": "POST",
+    "route": "/api/get-countries"
+  },
+  "get-states": {
+    "method": "POST",
+    "route": "/api/get-states"
+  },
+  "get-user-stories": {
+    "method": "POST",
+    "route": "/api/get-user-stories"
+  },
+  "create-story": {
+    "method": "POST",
+    "route": "/api/create-story"
+  },
+  "get-cities": {
+    "method": "POST",
+    "route": "/api/get-cities"
+  },
+  "get-notifications": {
+    "method": "POST",
+    "route": "/api/get-notifications"
+  },
+  "get-pet-types": {
+    "method": "POST",
+    "route": "/api/get-pet-types"
+  },
+  "get-pet-sub-types": {
+    "method": "POST",
+    "route": "/api/get-pet-sub-types"
+  },
+  "get-pet-sizes": {
+    "method": "POST",
+    "route": "/api/get-pet-sizes"
+  },
+  "create-pet": {
+    "method": "POST",
+    "route": "/api/create-pet"
+  },
+  "get-user-data": {
+    "method": "POST",
+    "route": "/api/get-user-data"
+  },
+  "get-user-pets": {
+    "method": "POST",
+    "route": "/api/get-user-pets"
+  },
+  "get-pets": {
+    "method": "POST",
+    "route": "/api/get-pets"
+  },
+  "get-friend-suggestion": {
+    "method": "POST",
+    "route": "/api/get-friend-suggestion"
+  },
+  "get_group_posts": {
+    "method": "POST",
+    "route": "/api/posts"
+  },
+  "get_news_feed_posts": {
+    "method": "POST",
+    "route": "/api/posts"
+  },
+  "new_post": {
+    "method": "POST",
+    "route": "/api/app_api.php?application=phone&type=new_post/"
+  },
+  "get-nearby-petsitters": {
+    "method": "POST",
+    "route": "/api/get-nearby-petsitters"
+  },
+  "get-services": {
+    "method": "POST",
+    "route": "/api/get-services"
+  },
+  "get-friends": {
+    "method": "POST",
+    "route": "/api/get-friends"
+  },
+  "follow-user": {
+    "method": "POST",
+    "route": "/api/follow-user"
+  },
+  "get_user_posts": {
+    "method": "POST",
+    "route": "/api/posts"
+  },
+  "get_page_posts": {
+    "method": "POST",
+    "route": "/api/posts"
+  },
+  "like-page": {
+    "method": "POST",
+    "route": "/api/like-page"
+  },
+  "petsitter-onboarding": {
+    "method": "POST",
+    "route": "/api/petsitter-onboarding"
+  },
+  "pixxy": {
+    "method": "POST",
+    "route": "/api/pixxy"
+  },
+  "get-pixxy": {
+    "method": "POST",
+    "route": "/api/get-pixxy"
+  },
+  "get-world-pixxy": {
+    "method": "POST",
+    "route": "/api/get-world-pixxy"
+  },
+  "get-category-services": {
+    "method": "POST",
+    "route": "/api/get-category-services"
+  },
+  "manage-services": {
+    "method": "POST",
+    "route": "/api/manage-services"
+  },
+  "manage-policies": {
+    "method": "POST",
+    "route": "/api/manage-policies"
+  },
+  "post-actions": {
+    "method": "POST",
+    "route": "/api/post-actions"
+  },
+  "get-general-data": {
+    "method": "POST",
+    "route": "/api/get-general-data"
+  },
+  "get-post-data": {
+    "method": "POST",
+    "route": "/api/get-post-data"
+  },
+  "search": {
+    "method": "POST",
+    "route": "/api/search"
+  },
+  "get-my-pages": {
+    "method": "POST",
+    "route": "/api/get-my-pages"
+  },
+  "get-my-groups": {
+    "method": "POST",
+    "route": "/api/get-my-groups"
+  },
+  "join-group": {
+    "method": "POST",
+    "route": "/api/join-group"
+  },
+  "fetch-recommended": {
+    "method": "POST",
+    "route": "/api/fetch-recommended"
+  }
+}

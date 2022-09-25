@@ -1,0 +1,6 @@
+module Pods_PetMyPal {
+  umbrella header "Pods-PetMyPal-umbrella.h"
+
+  export *
+  module * { export * }
+}

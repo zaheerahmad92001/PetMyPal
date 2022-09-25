@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.raygun:raygun4android:4.0.2-beta1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2e6e78eeaca37cec35ff46e2c4358bcb/jetified-raygun4android-4.0.2-beta1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2e6e78eeaca37cec35ff46e2c4358bcb/jetified-raygun4android-4.0.2-beta1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2e6e78eeaca37cec35ff46e2c4358bcb/jetified-raygun4android-4.0.2-beta1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b41aff343c04ee9bb3d1d6ffe55bbb23/jetified-raygun4android-4.0.2-beta1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b41aff343c04ee9bb3d1d6ffe55bbb23/jetified-raygun4android-4.0.2-beta1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b41aff343c04ee9bb3d1d6ffe55bbb23/jetified-raygun4android-4.0.2-beta1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1c7c8fb3bb4f8fa114ab45616b3e7bca/jetified-raygun4android-4.0.2-beta1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1c7c8fb3bb4f8fa114ab45616b3e7bca/jetified-raygun4android-4.0.2-beta1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1c7c8fb3bb4f8fa114ab45616b3e7bca/jetified-raygun4android-4.0.2-beta1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.raygun/raygun4android/4.0.2-beta1/c42cc9d01d9e7594af8fa401684137825b7d2179/raygun4android-4.0.2-beta1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.raygun/raygun4android/4.0.2-beta1/d21314e5dedec3b3a60250c402ec2eb032311e26/raygun4android-4.0.2-beta1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

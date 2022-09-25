@@ -1,0 +1,1 @@
+../../../raygun4apple/Sources/Raygun_KSCrash/Recording/Tools/NSError+Raygun_SimpleConstructor.h

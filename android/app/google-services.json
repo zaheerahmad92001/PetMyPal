@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "55185035239",
+    "firebase_url": "https://glassy-sky-282115.firebaseio.com",
+    "project_id": "glassy-sky-282115",
+    "storage_bucket": "glassy-sky-282115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55185035239:android:46ea41823011f6f9f4f742",
+        "android_client_info": {
+          "package_name": "app.petmypal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55185035239-2ua3iul7aqg0njlnql1m9i5uacvohq8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.petmypal",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "55185035239-c9l4cerkh28vue9gvd8ap33bpdmg33pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_xCZthH6F8dyDu_VIcZUc0mtk70OOcPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55185035239-c9l4cerkh28vue9gvd8ap33bpdmg33pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
