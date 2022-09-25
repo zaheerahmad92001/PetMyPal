@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PetMyPal.iml" filepath="$PROJECT_DIR$/.idea/modules/PetMyPal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PetMyPal.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PetMyPal.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1275644387/PetMyPal.lottie-react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/-1275644387/PetMyPal.lottie-react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/254714467/PetMyPal.raygun4reactnative.iml" filepath="$PROJECT_DIR$/.idea/modules/254714467/PetMyPal.raygun4reactnative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/481364761/PetMyPal.react-native-audio.iml" filepath="$PROJECT_DIR$/.idea/modules/481364761/PetMyPal.react-native-audio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1498067729/PetMyPal.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1498067729/PetMyPal.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1095338848/PetMyPal.react-native-community_blur.iml" filepath="$PROJECT_DIR$/.idea/modules/1095338848/PetMyPal.react-native-community_blur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1674602044/PetMyPal.react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/1674602044/PetMyPal.react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1747997693/PetMyPal.react-native-community_clipboard.iml" filepath="$PROJECT_DIR$/.idea/modules/1747997693/PetMyPal.react-native-community_clipboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1864081998/PetMyPal.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1864081998/PetMyPal.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1510538994/PetMyPal.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/1510538994/PetMyPal.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1756805618/PetMyPal.react-native-community_progress-bar-android.iml" filepath="$PROJECT_DIR$/.idea/modules/-1756805618/PetMyPal.react-native-community_progress-bar-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1034261972/PetMyPal.react-native-community_progress-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1034261972/PetMyPal.react-native-community_progress-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-366290876/PetMyPal.react-native-community_toolbar-android.iml" filepath="$PROJECT_DIR$/.idea/modules/-366290876/PetMyPal.react-native-community_toolbar-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1452008101/PetMyPal.react-native-community_viewpager.iml" filepath="$PROJECT_DIR$/.idea/modules/1452008101/PetMyPal.react-native-community_viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/69580176/PetMyPal.react-native-date-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/69580176/PetMyPal.react-native-date-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1150826552/PetMyPal.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/-1150826552/PetMyPal.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1459135235/PetMyPal.react-native-document-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1459135235/PetMyPal.react-native-document-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/525962759/PetMyPal.react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/525962759/PetMyPal.react-native-fast-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-705270463/PetMyPal.react-native-fbsdk.iml" filepath="$PROJECT_DIR$/.idea/modules/-705270463/PetMyPal.react-native-fbsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1357630884/PetMyPal.react-native-firebase.iml" filepath="$PROJECT_DIR$/.idea/modules/1357630884/PetMyPal.react-native-firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-477678550/PetMyPal.react-native-fs.iml" filepath="$PROJECT_DIR$/.idea/modules/-477678550/PetMyPal.react-native-fs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-153362447/PetMyPal.react-native-geolocation-service.iml" filepath="$PROJECT_DIR$/.idea/modules/-153362447/PetMyPal.react-native-geolocation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1740112311/PetMyPal.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1740112311/PetMyPal.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-617339144/PetMyPal.react-native-get-random-values.iml" filepath="$PROJECT_DIR$/.idea/modules/-617339144/PetMyPal.react-native-get-random-values.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1283409059/PetMyPal.react-native-google-places.iml" filepath="$PROJECT_DIR$/.idea/modules/1283409059/PetMyPal.react-native-google-places.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/446444701/PetMyPal.react-native-google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/446444701/PetMyPal.react-native-google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2095818710/PetMyPal.react-native-google-signin_google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/-2095818710/PetMyPal.react-native-google-signin_google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/409739452/PetMyPal.react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/409739452/PetMyPal.react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/158550365/PetMyPal.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/158550365/PetMyPal.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1120161189/PetMyPal.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-1120161189/PetMyPal.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1975494486/PetMyPal.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/-1975494486/PetMyPal.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/311943083/PetMyPal.react-native-media-meta.iml" filepath="$PROJECT_DIR$/.idea/modules/311943083/PetMyPal.react-native-media-meta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/963495505/PetMyPal.react-native-onesignal.iml" filepath="$PROJECT_DIR$/.idea/modules/963495505/PetMyPal.react-native-onesignal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-11181835/PetMyPal.react-native-pdf.iml" filepath="$PROJECT_DIR$/.idea/modules/-11181835/PetMyPal.react-native-pdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-664821881/PetMyPal.react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/-664821881/PetMyPal.react-native-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-225006340/PetMyPal.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-225006340/PetMyPal.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1849547903/PetMyPal.react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/-1849547903/PetMyPal.react-native-push-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2135365171/PetMyPal.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/2135365171/PetMyPal.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-854284174/PetMyPal.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-854284174/PetMyPal.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1807708406/PetMyPal.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1807708406/PetMyPal.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/562494597/PetMyPal.react-native-sms-retriever.iml" filepath="$PROJECT_DIR$/.idea/modules/562494597/PetMyPal.react-native-sms-retriever.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-43258030/PetMyPal.react-native-sound.iml" filepath="$PROJECT_DIR$/.idea/modules/-43258030/PetMyPal.react-native-sound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1434833195/PetMyPal.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-1434833195/PetMyPal.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2138168423/PetMyPal.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/2138168423/PetMyPal.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1412891086/PetMyPal.react-native-text-input-mask.iml" filepath="$PROJECT_DIR$/.idea/modules/-1412891086/PetMyPal.react-native-text-input-mask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-237122279/PetMyPal.react-native-twitter-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/-237122279/PetMyPal.react-native-twitter-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1783817773/PetMyPal.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1783817773/PetMyPal.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/289553326/PetMyPal.react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/289553326/PetMyPal.react-native-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1746201468/PetMyPal.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/1746201468/PetMyPal.react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1138233510/PetMyPal.react-native-youtube.iml" filepath="$PROJECT_DIR$/.idea/modules/1138233510/PetMyPal.react-native-youtube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-706329354/PetMyPal.rn-fetch-blob.iml" filepath="$PROJECT_DIR$/.idea/modules/-706329354/PetMyPal.rn-fetch-blob.iml" />
+    </modules>
+  </component>
+</project>

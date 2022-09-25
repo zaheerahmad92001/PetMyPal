@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PetMyPal.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>6051C4232AF9473A3DD06724464677F13944AD28</string>
+				<key>dateExpires</key>
+				<string>04/07/2022</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>49WUAMMBP8.com.petmypal</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>49WUAMMBP8</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>PetMyPal.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>d0af5204-6165-4314-93c8-943b39afac19</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.petmypal</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>49WUAMMBP8</string>
+				<key>name</key>
+				<string>shazad malik</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

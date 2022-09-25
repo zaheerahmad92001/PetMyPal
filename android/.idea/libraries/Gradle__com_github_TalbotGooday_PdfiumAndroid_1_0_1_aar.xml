@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.TalbotGooday:PdfiumAndroid:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e5a477e78f05e0a3fc3cc9c7a83870ff/jetified-PdfiumAndroid-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e5a477e78f05e0a3fc3cc9c7a83870ff/jetified-PdfiumAndroid-1.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e5a477e78f05e0a3fc3cc9c7a83870ff/jetified-PdfiumAndroid-1.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c40f1376df4e6925850e7ece7f4581c8/jetified-PdfiumAndroid-1.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c40f1376df4e6925850e7ece7f4581c8/jetified-PdfiumAndroid-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c40f1376df4e6925850e7ece7f4581c8/jetified-PdfiumAndroid-1.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.TalbotGooday/PdfiumAndroid/1.0.1/d2b470f7fa66d551968be56f29cce8e3bc1772fc/PdfiumAndroid-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

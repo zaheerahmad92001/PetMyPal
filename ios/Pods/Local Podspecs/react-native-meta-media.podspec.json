@@ -1,0 +1,24 @@
+{
+  "name": "react-native-meta-media",
+  "version": "0.0.11",
+  "summary": "Get media file metadata in your React Native app",
+  "requires_arc": true,
+  "license": "MIT",
+  "homepage": "n/a",
+  "authors": {
+    "ivpusic": ""
+  },
+  "source": {
+    "git": "https://github.com/mybigday/react-native-media-meta",
+    "tag": "v#{version}"
+  },
+  "source_files": "ios/RNMediaMeta/*.{h,m}",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "dependencies": {
+    "React-Core": [
+
+    ]
+  }
+}

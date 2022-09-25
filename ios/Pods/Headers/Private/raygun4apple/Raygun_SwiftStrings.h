@@ -1,0 +1,1 @@
+../../../raygun4apple/Sources/Raygun_KSCrash/swift/Raygun_SwiftStrings.h

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>55185035239-klrkimbcr9jhsa1plk0di485jicqj39e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.55185035239-klrkimbcr9jhsa1plk0di485jicqj39e</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>55185035239-2ua3iul7aqg0njlnql1m9i5uacvohq8o.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA3FQGbTp9rG39pzKt5WiNvgXaFROy342o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>55185035239</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.petmypal</string>
+	<key>PROJECT_ID</key>
+	<string>glassy-sky-282115</string>
+	<key>STORAGE_BUCKET</key>
+	<string>glassy-sky-282115.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:55185035239:ios:28c4ea541f0e726ef4f742</string>
+	<key>DATABASE_URL</key>
+	<string>https://glassy-sky-282115.firebaseio.com</string>
+</dict>
+</plist>

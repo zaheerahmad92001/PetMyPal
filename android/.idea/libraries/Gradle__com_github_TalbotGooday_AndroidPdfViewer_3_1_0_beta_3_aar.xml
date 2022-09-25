@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.TalbotGooday:AndroidPdfViewer:3.1.0-beta.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5ef6742b0430070142b376cb7b932f41/jetified-AndroidPdfViewer-3.1.0-beta.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5ef6742b0430070142b376cb7b932f41/jetified-AndroidPdfViewer-3.1.0-beta.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5ef6742b0430070142b376cb7b932f41/jetified-AndroidPdfViewer-3.1.0-beta.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d644049babf721bca0844fd18d3fe915/jetified-AndroidPdfViewer-3.1.0-beta.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d644049babf721bca0844fd18d3fe915/jetified-AndroidPdfViewer-3.1.0-beta.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d644049babf721bca0844fd18d3fe915/jetified-AndroidPdfViewer-3.1.0-beta.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.TalbotGooday/AndroidPdfViewer/3.1.0-beta.3/e6ef178c66c9321f11305d99b0f798b1ee8286cc/AndroidPdfViewer-3.1.0-beta.3-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.TalbotGooday/AndroidPdfViewer/3.1.0-beta.3/693aba9f9b7e6837e4a0566fdb186ae418f06ba8/AndroidPdfViewer-3.1.0-beta.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

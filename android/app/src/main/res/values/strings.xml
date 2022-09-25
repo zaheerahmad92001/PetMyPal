@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PetMyPal</string>
+    <string name="facebook_app_id">571095994003113</string>
+    <string name="fb_login_protocol_scheme">fb2662207834046097</string>
+    <string name="server_client_id">417615484056-37jt90jnt9d43ffjn3ca5guatt29ui60.apps.googleusercontent.com</string>
+    <string name="geoLocationKey">AIzaSyB1ATljOQdQSbKf_-icbQbfQqBqZlmwD0I</string>
+
+<string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+<string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+</resources>
