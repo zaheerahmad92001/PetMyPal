@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="190" viewBox="0 0 200 190">
+  <g id="dots" transform="translate(0 -16.313)">
+    <g id="Ellipse_132" data-name="Ellipse 132" transform="translate(55.909 16.313)" fill="none" stroke="#465575" stroke-width="16">
+      <circle cx="44.091" cy="44.091" r="44.091" stroke="none"/>
+      <circle cx="44.091" cy="44.091" r="36.091" fill="none"/>
+    </g>
+    <g id="Ellipse_133" data-name="Ellipse 133" transform="translate(111.818 118.131)" fill="none" stroke="#465575" stroke-width="16">
+      <circle cx="44.091" cy="44.091" r="44.091" stroke="none"/>
+      <circle cx="44.091" cy="44.091" r="36.091" fill="none"/>
+    </g>
+    <g id="Ellipse_134" data-name="Ellipse 134" transform="translate(0 118.131)" fill="none" stroke="#465575" stroke-width="16">
+      <circle cx="44.091" cy="44.091" r="44.091" stroke="none"/>
+      <circle cx="44.091" cy="44.091" r="36.091" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <g id="dots" transform="translate(-0.069 -16)">
+    <g id="Ellipse_132" data-name="Ellipse 132" transform="translate(106.313 16.313)" fill="none" stroke="#465575" stroke-width="16">
+      <circle cx="46.844" cy="46.844" r="46.844" stroke="none"/>
+      <circle cx="46.844" cy="46.844" r="38.844" fill="none"/>
+    </g>
+    <g id="Rectangle_1672" data-name="Rectangle 1672" transform="translate(0.069 16)" fill="none" stroke="#465575" stroke-width="16">
+      <rect width="94" height="94" rx="24" stroke="none"/>
+      <rect x="8" y="8" width="78" height="78" rx="16" fill="none"/>
+    </g>
+    <g id="Rectangle_1673" data-name="Rectangle 1673" transform="translate(0.069 122)" fill="none" stroke="#465575" stroke-width="16">
+      <rect width="94" height="94" rx="24" stroke="none"/>
+      <rect x="8" y="8" width="78" height="78" rx="16" fill="none"/>
+    </g>
+    <g id="Rectangle_1674" data-name="Rectangle 1674" transform="translate(106.069 122)" fill="none" stroke="#465575" stroke-width="16">
+      <rect width="94" height="94" rx="24" stroke="none"/>
+      <rect x="8" y="8" width="78" height="78" rx="16" fill="none"/>
+    </g>
+  </g>
+</svg>

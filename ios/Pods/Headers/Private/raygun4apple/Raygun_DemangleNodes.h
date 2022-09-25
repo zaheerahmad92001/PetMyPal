@@ -1,0 +1,1 @@
+../../../raygun4apple/Sources/Raygun_KSCrash/swift/Basic/Raygun_DemangleNodes.h

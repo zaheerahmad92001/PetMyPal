@@ -1,0 +1,28 @@
+{
+  "name": "raygun4reactnative",
+  "version": "1.2.1",
+  "summary": "Raygun React Native SDK",
+  "description": "raygunnativebridge",
+  "homepage": "https://github.com/MindscapeHQ/raygun4reactnative",
+  "license": "MIT",
+  "authors": {
+    "MindscapeHQ": "hello@raygun.io"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/hunteva/raygun4reactnative.git",
+    "branch": "kerwin/refactory/storage"
+  },
+  "source_files": "ios/**/*.{h,c,m,swift}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ],
+    "raygun4apple": [
+      "~> 1.5.1"
+    ]
+  }
+}

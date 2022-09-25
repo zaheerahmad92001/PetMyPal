@@ -1,0 +1,1 @@
+../../../raygun4apple/Sources/Raygun_KSCrash/Reporting/Filters/Tools/NSData+GZip.h

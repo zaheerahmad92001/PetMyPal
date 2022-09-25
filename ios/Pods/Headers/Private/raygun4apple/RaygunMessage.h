@@ -1,0 +1,1 @@
+../../../raygun4apple/Sources/Raygun/RaygunMessage.h

@@ -1,0 +1,1 @@
+../../../raygun4apple/Sources/Raygun_KSCrash/Recording/Tools/Raygun_KSStackCursor_MachineContext.h
